@@ -56,6 +56,10 @@ CSV Export
 
 ![Update Product](./images/update.png)
 
+### CSV File
+
+![CSV File](./images/csv.png)
+
 ## 🚀 How to Run
 
 1. Install **XAMPP**.
