@@ -1,6 +1,10 @@
 # PHP Mini Project
+<p align="center"> <b>A simple PHP & MySQL web application for managing products with user authentication and CRUD operations.</b> </p>
 
-A simple **PHP & MySQL based web application** demonstrating user authentication and basic product management using CRUD operations.
+<p align="center"> <img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/XAMPP-Local%20Server-FB7A24?style=for-the-badge&logo=apache&logoColor=white" alt="XAMPP"> </p>
+
+<p align="center"> <a href="https://github.com/Aditya-deshmukh-1410/PHP-Mini_Project"> <img src="https://img.shields.io/github/stars/Aditya-deshmukh-1410/PHP-Mini_Project?style=flat-square" alt="GitHub Stars"> </a> <a href="https://github.com/Aditya-deshmukh-1410/PHP-Mini_Project/network/members"> <img src="https://img.shields.io/github/forks/Aditya-deshmukh-1410/PHP-Mini_Project?style=flat-square" alt="GitHub Forks"> </a> <img src="https://img.shields.io/github/repo-size/Aditya-deshmukh-1410/PHP-Mini_Project?style=flat-square" alt="Repo Size"> </p>
+
 
 ## 🛠️ Technologies
 
